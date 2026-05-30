@@ -1,24 +1,33 @@
-# Hi there, I'm Krish!
+## Krish Malik
 
-I'm a **Computer Science and Economics major** at Georgetown University. I enjoy exploring how tech and finance intersect, and I'm currently learning about **AI**, **web development**, and **data analytics**.
+CS + Economics at Georgetown (3.96). Building production systems 
+at the intersection of AI infrastructure, autonomous decision-making, 
+and data pipelines.
 
-## Projects on My GitHub
-- **[Corp Website](https://github.com/km31-code/corp-website)**  
-  A Next.js site to manage inventory and real-time search for a campus store organization.
-- **[METY Website](https://github.com/km31-code/mety-website)**  
-  A Node.js/Express project showcasing an informational landing page for METY Technology.
-- **[ML Projects](https://github.com/km31-code/ml-projects)**  
-  Various senior-year explorations in NLP, reinforcement learning, Monte Carlo, and computer vision.
-- **Sports Betting Startup** (in progress)  
-  Building a full-stack platform for sports betting engagement, real-time odds, and user-driven content.
+**Currently**
+- Founding Engineer @ Alluviam — AI agent governance layer; 
+  Rust/Datalog policy engine producing cryptographic audit proofs 
+  of agent decisions in <15ms
+- CTO @ The Petition Co. — civic-data platform processing 15K+ 
+  government documents/week against 10M+ voter records
 
-## About Me
-- **Georgetown University** – B.S. in Computer Science, Minor in Economics
-- **Outside Interests** – Baseball, Golf, and World History
-- **Currently Learning** – Deeper ML/AI techniques and advanced econ/finance concepts
+**Selected work**
+- **AMCS** — autonomous risk controller that detects market regime 
+  shifts and cuts exposure before drawdowns deepen; deployed on Fly.io 
+  with hard constitutional safety constraints
+- **Continuum / Jeff** — Linux OS built from scratch around 
+  AI-native task execution (Rust, wlroots, SQLite); productized 
+  into Jeff, a macOS ambient coworker
+- **Experience Agents** — persistent multi-agent resource ecology 
+  with developmental state, bounded resources, and irreversible 
+  damage — no resets, no backprop
+- **Storm** — real-money contract platform with AI-underwritten 
+  odds and autonomous result verification
 
-## Contact
-- **Email**: [km1897@georgetown.edu](mailto:km1897@georgetown.edu)
-- **LinkedIn**: [linkedin.com/in/2028krishmalik](https://linkedin.com/in/2028krishmalik)
+**Stack**
+Python · Rust · TypeScript · Java · C++ · SQL  
+Next.js · React · Celery · Tauri · Node.js  
+MongoDB · PostgreSQL · Redis · AWS · Docker  
+PyTorch · Hugging Face · OCR · Vector Search
 
-Thanks for visiting! Feel free to check out my repos or reach out anytime.
+[LinkedIn](https://linkedin.com/in/2028krishmalik) · km1897@georgetown.edu
